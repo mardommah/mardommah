@@ -66,7 +66,6 @@ I'm a **Fullstack Developer & DevOps Engineer** based in Makassar, Indonesia, wi
 | Certification | Issuer | Status |
 |---|---|---|
 | ☁️ **AWS Certified Solutions Architect – Associate** | Amazon Web Services | ✅ Certified |
-| 🌐 **Junior Network Administrator** | BNSP Indonesia | ✅ Certified |
 
 ---
 
@@ -87,16 +86,6 @@ I'm a **Fullstack Developer & DevOps Engineer** based in Makassar, Indonesia, wi
 </div>
 
 ---
-
-## 💼 Work Experience Highlights
-
-```
-🏢 8grams.tech          → Software Engineer          (Dec 2025 – Present)  [Remote]
-🏥 Klinik Syamsinar     → DevOps Engineer            (Oct 2024 – Present)
-🎓 Makassar Coding      → Fullstack Developer Teacher (May 2024 – Present)
-🌍 Matcha Foundation    → IT Manager                 (Jan 2023 – Present)
-💻 Self Employed        → Freelance Developer        (Jul 2020 – Present)
-```
 
 ---
 
