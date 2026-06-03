@@ -21,10 +21,6 @@
 
 I'm a **Fullstack Developer & DevOps Engineer** based in Makassar, Indonesia, with 5+ years of experience building and deploying production-grade web applications. I enjoy working across the full stack — from crafting clean UIs to architecting reliable cloud infrastructure.
 
-- 🔭 Currently working as **Software Engineer** at [8grams.tech](https://8grams.tech) (Remote)
-- ☁️ Certified **AWS Solutions Architect** — designing scalable, fault-tolerant systems
-- 🏥 Maintaining **SIMRS** (Hospital Information System) infrastructure at Klinik Syamsinar
-- 🎓 Teaching **Fullstack Web Development** at Makassar Coding
 - 🚀 5+ years freelancing for clients across various industries
 - 🌐 Open to **remote opportunities** globally
 
